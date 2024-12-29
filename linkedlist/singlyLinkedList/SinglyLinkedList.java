@@ -21,7 +21,7 @@ public class SinglyLinkedList {
         list.printList();
         list.deleteLast();
         list.printList();
-        System.out.println(list.size);
+        System.out.println("Size :"+list.size);
 
 
 
