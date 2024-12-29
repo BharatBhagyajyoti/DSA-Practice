@@ -1,5 +1,11 @@
 package dsa.linkedlist.singlyLinkedList.practice;
 
+/*
+Write a function to get Nth node in a Linked List
+Given a LinkedList and an index (1-based). The task is to find the data value stored in the node at that kth position.
+ */
+
+
 import dsa.linkedlist.singlyLinkedList.Node;
 
 import java.util.Scanner;
